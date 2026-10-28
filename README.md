@@ -1,65 +1,48 @@
-<h1 align="center">Hola, soy Santiago 👋</h1>
+<div align="center">
 
-<p align="center">
-  Estudiante de Ingeniería de Sistemas (8º semestre) · Universidad Jorge Tadeo Lozano · Bogotá 🇨🇴<br>
-  Desarrollo de software y datos
-</p>
+<img src="assets/banner.svg" alt="Santiago Martínez Beltrán · Full-stack y automatización con IA" width="100%">
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/santiago-martinez-beltran-a90243263/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-</p>
+<img src="assets/dialog.svg" alt="Presentación" width="100%">
 
----
+<a href="https://www.linkedin.com/in/santiago-martinez-beltran-a90243263"><img src="assets/btn-linkedin.svg" alt="LinkedIn"></a>&nbsp;&nbsp;<a href="mailto:martinezbeltransantiago9@gmail.com"><img src="assets/btn-email.svg" alt="Hablemos por correo"></a>
 
-## 🛠️ Stack
+<img src="assets/metrics.svg" alt="Resumen en números" width="100%">
 
-<p>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
-</p>
+</div>
 
----
+<img src="assets/sec-proyectos.svg" alt="01 · Proyectos" width="100%">
 
-## 🚀 Proyectos destacados
+<div align="center">
+<a href="https://github.com/Tiaguitoo09?tab=repositories"><img src="assets/card-safeway.svg" alt="SafeWay" width="49%"></a><a href="https://github.com/Tiaguitoo09?tab=repositories"><img src="assets/card-myway.svg" alt="My Way" width="49%"></a>
+</div>
 
-### 📱 [MyWay](https://github.com/Tiaguitoo09/MyWay)
-App móvil de movilidad en **Kotlin** que recomienda planes cerca de tu ubicación y, con **IA**, arma itinerarios de actividades cuando no sabes qué hacer en tu ciudad.
-`Kotlin` `Android` `IA` · Proyecto académico (Desarrollo de Aplicaciones Móviles)
+<div align="center">
+<a href="https://github.com/Tiaguitoo09/Equilibrio"><img src="assets/card-equilibrio.svg" alt="Equilibrio" width="49%"></a><a href="https://github.com/Tiaguitoo09?tab=repositories"><img src="assets/card-meditrack.svg" alt="MediTrack Colombia" width="49%"></a>
+</div>
 
-### ☀️ Mundo Solar
-Sitio web **e-commerce** desarrollado desde cero para una empresa bogotana de iluminación decorativa, LED y materiales eléctricos. Arquitectura modular: catálogo, carrito, checkout, pedidos, inventario y panel de administración. Desplegado en Vercel.
-`Next.js` `TypeScript` `Supabase` `CSS` · 🔒 Proyecto de cliente (código privado)
+<div align="center">
+<a href="https://github.com/Tiaguitoo09?tab=repositories"><img src="assets/card-mundosolar.svg" alt="Mundo Solar" width="49%"></a><a href="https://github.com/Tiaguitoo09?tab=repositories"><img src="assets/card-nexcol.svg" alt="Nexcol Link" width="49%"></a>
+</div>
 
-### 🔗 Nexcol Link
-Aplicación web de comercialización de productos para una empresa de importaciones: catálogo y panel de administración.
-`Next.js` `TypeScript` `Supabase` `CSS` · 🔒 Proyecto de cliente (código privado)
+<img src="assets/sec-stack.svg" alt="02 · Stack" width="100%">
 
-### ☕ [LeyDeCiclosPa](https://github.com/Tiaguitoo09/LeyDeCiclosPa)
-Proyecto del primer corte de Programación Avanzada, desarrollado en **Java**.
-`Java` · Proyecto académico
+<img src="assets/stack.svg" alt="Stack técnico" width="100%">
 
----
+<img src="assets/sec-proceso.svg" alt="03 · Cómo trabajo" width="100%">
 
-## 📚 Certificaciones
+<img src="assets/process.svg" alt="Cómo trabajo: descubrir, prototipar, construir, probar y lanzar" width="100%">
 
-- 🌐 **Networking Basics**, Cisco (nov. 2025)
-- 🐍 **Python Essentials 1**, Cisco (oct. 2026)
-- 🇬🇧 **EF SET English Certificate**, B2 Upper Intermediate
-- ☁️ OCI (Oracle Cloud Infrastructure) y Power BI, en curso
+<img src="assets/sec-actividad.svg" alt="04 · Actividad" width="100%">
 
----
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Tiaguitoo09/Tiaguitoo09/output/github-snake-dark.svg">
+  <img src="https://raw.githubusercontent.com/Tiaguitoo09/Tiaguitoo09/output/github-snake.svg" alt="Gráfico de contribuciones animado" width="100%">
+</picture>
 
-## 📫 Contacto
+<a href="mailto:martinezbeltransantiago9@gmail.com"><img src="assets/cta.svg" alt="¿Tienes un proyecto en mente? Hablemos" width="100%"></a>
 
-Puedes escribirme por [LinkedIn](https://www.linkedin.com/in/santiago-martinez-beltran-a90243263/).
+<div align="center">
+
+<sub><a href="https://www.linkedin.com/in/santiago-martinez-beltran-a90243263">LinkedIn</a> · <a href="mailto:martinezbeltransantiago9@gmail.com">martinezbeltransantiago9@gmail.com</a> · Bogotá, Colombia</sub>
+
+</div>
